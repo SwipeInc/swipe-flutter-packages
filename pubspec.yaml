@@ -1,7 +1,7 @@
 name: swipe_boxing_images
 description: This is a sample package for listing and testing other useable packages.
 version: 0.0.1
-homepage:
+homepage: https://github.com/SwipeInc/swipe-flutter-packages.git
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
